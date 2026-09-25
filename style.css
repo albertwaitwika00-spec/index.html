@@ -1,0 +1,16 @@
+body{
+    background-color: purple;
+}
+
+
+.container{
+   padding:10px;
+    margin-right:100px;
+    margin-left: 100px;
+    text-align: center;
+    background-color: white;
+    margin-bottom:80px;
+    margin-top: 80px;
+    border: 2px solid rgb(250, 250, 250);
+    border-radius: 20px;
+    }
